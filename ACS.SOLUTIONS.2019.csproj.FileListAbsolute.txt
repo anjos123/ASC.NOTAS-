@@ -1,0 +1,10 @@
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\bin\Debug\ACS.SOLUTIONS.2019.exe.config
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\bin\Debug\ACS.SOLUTIONS.2019.exe
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\bin\Debug\ACS.SOLUTIONS.2019.pdb
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS.2019.csprojAssemblyReference.cache
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS._2019.Form1.resources
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS._2019.Properties.Resources.resources
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS.2019.csproj.GenerateResource.cache
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS.2019.csproj.CoreCompileInputs.cache
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS.2019.exe
+C:\Users\Rosinei\source\repos\ACS.SOLUTIONS.2019\ACS.SOLUTIONS.2019\obj\Debug\ACS.SOLUTIONS.2019.pdb
